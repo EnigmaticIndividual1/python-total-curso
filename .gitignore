@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Entorno virtual
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Configuración local
+.vscode/
+
+# Archivos del sistema
+.DS_Store
